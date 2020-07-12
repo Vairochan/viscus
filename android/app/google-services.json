@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "862894996494",
+    "firebase_url": "https://viscus-a8851.firebaseio.com",
+    "project_id": "viscus-a8851",
+    "storage_bucket": "viscus-a8851.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862894996494:android:e99562974ac91cc7b0505f",
+        "android_client_info": {
+          "package_name": "com.vairochan.viscus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862894996494-hb3b5e2gd12vat6nngpg4omvvl9dd0o5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vairochan.viscus",
+            "certificate_hash": "641e745ff18d60e22da5980ada976a6ecd7172f4"
+          }
+        },
+        {
+          "client_id": "862894996494-ilrd3q3v94909cgtj9nkmcsj7ojtv14o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg336o2bJxA8niuWX1v-IJja00tpmAAiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862894996494-ilrd3q3v94909cgtj9nkmcsj7ojtv14o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
